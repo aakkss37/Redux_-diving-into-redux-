@@ -31,6 +31,6 @@ console.log(store.getState());
 export default store;
 
 
-store.dispatch({type: "increment"});
-store.dispatch({type: "decrement"});
+// store.dispatch({type: "increment"});
+// store.dispatch({type: "decrement"});
 
